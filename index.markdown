@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: "Strona Główna"
+permalink: "/"
 ---
+
+# Witaj na mojej stronie z memami o kotach!
+
+Znajdziesz tutaj:
+- Statyczną stronę o kotach
+- Listę 50 memów
+- Osobne podstrony z opisami każdego z memów
+
+Przejdź do [listy memów](/kotki/) lub przeczytaj więcej [o kotach](/o-kotach/).
