@@ -1,2 +1,4 @@
 title: "Moja strona o kotach"
 description: "Automatycznie wygenerowana lista memów."
+include:
+  - "_memes"
