@@ -6,6 +6,7 @@ permalink: "/"
 
 # Witaj na mojej stronie o kotach
 
-Znajdziesz tu:
-- [Stronę statyczną &ndash; O kotach](/o-kotach/)
-- [Listę 50 memów](/kotki/)
+Wybierz jedną z poniższych podstron:
+
+- [O kotach](/o-kotach/)
+- [Lista memów](/lista/)

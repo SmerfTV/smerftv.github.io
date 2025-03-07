@@ -6,5 +6,4 @@ permalink: "/o-kotach/"
 
 # O kotach
 
-Kot (Felis catus) to udomowiony ssak drapieżny z rodziny kotowatych.
-Uwielbiany w internecie, słynie z niezliczonych memów.
+Kot (Felis catus) – udomowiony gatunek ssaka z rodziny kotowatych. Najsłynniejsze stworzenia internetu, bohaterowie memów.
