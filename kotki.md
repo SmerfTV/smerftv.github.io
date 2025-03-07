@@ -6,7 +6,7 @@ permalink: "/kotki/"
 
 # 50 Best Cat Memes (Cheezburger)
 
-Poniżej znajduje się lista memów. Kliknij w wybrany mem, aby przejść do szczegółów:
+Oto lista kocich memów z cheezburger.com wraz z krótkimi opisami.
 
 - [Meme #01 – Sarah Andersen @SarahCAndersen ⚫ Oct 31 How could people not like cats. I mean look at this thing](/kotki/01/)
 - [Meme #02 – celebrity lookalike contest 2 1450](/kotki/02/)
